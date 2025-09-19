@@ -11,6 +11,16 @@ sites:
     url: https://api-staging.katana.network
   - name: vault rewards api
     url: https://vault-rewards-api.katana.network/api/v1/health
+  - name: public rpc
+    url: https://rpc.katana.network
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"jsonrpc":"2.0","method":"eth_syncing","params":[],"id":1}'
+    expectedStatusCodes:
+      - 200
+    # This expects the result to be false (meaning synced)
+    __dangerous__body_down_if_text_missing: '"result":false'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,14 +28,12 @@ status-website:
 #  cname: demo.upptime.js.org
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: katana status
+  introTitle: "Uptime and monitor for critical katana components"
+  introMessage: This status page monitors key components necessary for the katana ecosystem and app.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
