@@ -1,7 +1,7 @@
 url: https://rpc.katana.network
-status: down
-code: 429
-responseTime: 462
-lastUpdated: 2025-09-29T22:08:58.374Z
+status: up
+code: 200
+responseTime: 427
+lastUpdated: 2025-09-29T22:21:49.352Z
 startTime: 2025-09-19T21:53:24.686Z
 generator: Upptime <https://github.com/upptime/upptime>
