@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 384,
+    "timeDay": 267,
     "timeWeek": 349,
     "timeMonth": 353,
     "timeYear": 353,
@@ -76,17 +76,19 @@
     "url": "https://rpc.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.katana.network.ico",
     "slug": "public-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 342,
-    "timeWeek": 358,
-    "timeMonth": 386,
-    "timeYear": 386,
-    "dailyMinutesDown": {}
+    "time": 391,
+    "timeDay": 402,
+    "timeWeek": 371,
+    "timeMonth": 391,
+    "timeYear": 391,
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   }
 ]
