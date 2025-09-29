@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 181,
-    "timeWeek": 148,
-    "timeMonth": 163,
-    "timeYear": 163,
+    "time": 169,
+    "timeDay": 253,
+    "timeWeek": 160,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 580,
-    "timeDay": 1317,
-    "timeWeek": 435,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "time": 575,
+    "timeDay": 499,
+    "timeWeek": 481,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 213,
-    "timeWeek": 317,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "time": 344,
+    "timeDay": 538,
+    "timeWeek": 336,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vault-rewards-api.katana.network.ico",
     "slug": "vault-rewards-api",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 358,
-    "timeDay": 386,
-    "timeWeek": 337,
-    "timeMonth": 358,
-    "timeYear": 358,
-    "dailyMinutesDown": {
-      "2025-09-28": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 353,
+    "timeDay": 384,
+    "timeWeek": 349,
+    "timeMonth": 353,
+    "timeYear": 353,
+    "dailyMinutesDown": {}
   },
   {
     "name": "public rpc",
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 334,
-    "timeWeek": 417,
-    "timeMonth": 389,
-    "timeYear": 389,
+    "time": 386,
+    "timeDay": 342,
+    "timeWeek": 358,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   }
 ]
