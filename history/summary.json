@@ -15,7 +15,9 @@
     "timeWeek": 183,
     "timeMonth": 169,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "katana app",
