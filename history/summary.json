@@ -78,7 +78,7 @@
     "slug": "public-rpc",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 365,
     "timeMonth": 386,
     "timeYear": 386,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   }
 ]
