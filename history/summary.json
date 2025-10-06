@@ -76,17 +76,19 @@
     "url": "https://rpc.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.katana.network.ico",
     "slug": "public-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 316,
-    "timeWeek": 374,
-    "timeMonth": 381,
-    "timeYear": 381,
-    "dailyMinutesDown": {}
+    "time": 376,
+    "timeDay": 289,
+    "timeWeek": 365,
+    "timeMonth": 376,
+    "timeYear": 376,
+    "dailyMinutesDown": {
+      "2025-10-06": 0
+    }
   }
 ]
