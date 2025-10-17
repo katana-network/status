@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/katana.network.ico",
     "slug": "katana-website",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 191,
-    "timeDay": 166,
-    "timeWeek": 197,
-    "timeMonth": 191,
-    "timeYear": 191,
-    "dailyMinutesDown": {
-      "2025-10-16": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 194,
+    "timeDay": 225,
+    "timeWeek": 192,
+    "timeMonth": 194,
+    "timeYear": 194,
+    "dailyMinutesDown": {}
   },
   {
     "name": "katana app",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 466,
-    "timeDay": 1395,
-    "timeWeek": 521,
-    "timeMonth": 466,
-    "timeYear": 466,
+    "time": 514,
+    "timeDay": 2056,
+    "timeWeek": 761,
+    "timeMonth": 514,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 360,
-    "timeDay": 466,
-    "timeWeek": 295,
+    "timeDay": 353,
+    "timeWeek": 310,
     "timeMonth": 360,
     "timeYear": 360,
     "dailyMinutesDown": {}
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 359,
-    "timeDay": 471,
-    "timeWeek": 454,
+    "timeDay": 362,
+    "timeWeek": 445,
     "timeMonth": 359,
     "timeYear": 359,
     "dailyMinutesDown": {}
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 400,
-    "timeWeek": 459,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 398,
+    "timeDay": 487,
+    "timeWeek": 431,
+    "timeMonth": 398,
+    "timeYear": 398,
     "dailyMinutesDown": {}
   }
 ]
