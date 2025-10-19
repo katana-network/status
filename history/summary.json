@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/katana.network.ico",
     "slug": "katana-website",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 192,
-    "timeDay": 171,
-    "timeWeek": 190,
-    "timeMonth": 192,
-    "timeYear": 192,
-    "dailyMinutesDown": {
-      "2025-10-18": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 196,
+    "timeDay": 255,
+    "timeWeek": 197,
+    "timeMonth": 196,
+    "timeYear": 196,
+    "dailyMinutesDown": {}
   },
   {
     "name": "katana app",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 194,
-    "timeWeek": 746,
-    "timeMonth": 505,
-    "timeYear": 505,
+    "time": 506,
+    "timeDay": 532,
+    "timeWeek": 772,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 385,
-    "timeWeek": 341,
-    "timeMonth": 361,
-    "timeYear": 361,
+    "time": 359,
+    "timeDay": 285,
+    "timeWeek": 337,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 485,
-    "timeWeek": 482,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 378,
+    "timeDay": 952,
+    "timeWeek": 547,
+    "timeMonth": 378,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 242,
-    "timeWeek": 406,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 395,
+    "timeDay": 442,
+    "timeWeek": 419,
+    "timeMonth": 395,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   }
 ]
