@@ -4,18 +4,20 @@
     "url": "https://katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/katana.network.ico",
     "slug": "katana-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 215,
-    "timeWeek": 201,
-    "timeMonth": 197,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 204,
+    "timeDay": 368,
+    "timeWeek": 230,
+    "timeMonth": 205,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "katana app",
