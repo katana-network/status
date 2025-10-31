@@ -42,9 +42,9 @@
     "url": "https://api-staging.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/api-staging.katana.network.ico",
     "slug": "katana-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +53,18 @@
     "timeWeek": 313,
     "timeMonth": 347,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   },
   {
     "name": "vault rewards api",
     "url": "https://vault-rewards-api.katana.network/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/vault-rewards-api.katana.network.ico",
     "slug": "vault-rewards-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 522,
     "timeMonth": 414,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-31": 0
+    }
   },
   {
     "name": "public rpc",
