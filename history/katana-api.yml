@@ -1,7 +1,7 @@
 url: https://api-staging.katana.network
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-31T15:42:44.775Z
+status: up
+code: 200
+responseTime: 283
+lastUpdated: 2025-10-31T15:51:44.052Z
 startTime: 2025-09-19T18:40:02.273Z
 generator: Upptime <https://github.com/upptime/upptime>
