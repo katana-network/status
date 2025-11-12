@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
     "time": 208,
     "timeDay": 87,
-    "timeWeek": 180,
+    "timeWeek": 169,
     "timeMonth": 218,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -61,18 +61,20 @@
     "url": "https://vault-rewards-api.katana.network/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/vault-rewards-api.katana.network.ico",
     "slug": "vault-rewards-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 455,
-    "timeWeek": 309,
-    "timeMonth": 413,
+    "timeDay": 408,
+    "timeWeek": 316,
+    "timeMonth": 411,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   },
   {
     "name": "public rpc",
