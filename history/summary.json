@@ -4,7 +4,7 @@
     "url": "https://katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/katana.network.ico",
     "slug": "katana-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 208,
     "timeDay": 105,
     "timeWeek": 184,
-    "timeMonth": 222,
+    "timeMonth": 223,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-11-05": 23,
