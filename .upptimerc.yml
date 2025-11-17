@@ -25,6 +25,15 @@ sites:
   - name: zerion
     url: https://api.zerion.io/health
     __dangerous__body_down_if_text_missing: '"status":"ok"'
+  - name: balance api
+    url: https://balance-api-gcp.polygon.technology/health-check
+    __dangerous__body_down_if_text_missing: '"success":true'
+#  - name: yearn api
+#    url:
+#  - name: morpho api
+#    url:
+#  - name: leaderboard api
+#    url: https://leaderboard.katana.network/api/_health/live
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
