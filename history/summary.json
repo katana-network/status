@@ -27,8 +27,8 @@
     "slug": "katana-app",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 628,
@@ -36,19 +36,17 @@
     "timeWeek": 297,
     "timeMonth": 742,
     "timeYear": 628,
-    "dailyMinutesDown": {
-      "2025-11-17": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "katana api",
-    "url": "https://api.katana.network",
+    "url": "https://api.katana.network/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.katana.network.ico",
     "slug": "katana-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
@@ -56,9 +54,7 @@
     "timeWeek": 395,
     "timeMonth": 346,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2025-11-17": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vault rewards api",
