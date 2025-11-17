@@ -27,7 +27,7 @@
     "slug": "katana-app",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +36,18 @@
     "timeWeek": 293,
     "timeMonth": 770,
     "timeYear": 638,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-17": 0
+    }
   },
   {
     "name": "katana api",
-    "url": "https://api-staging.katana.network",
-    "icon": "https://icons.duckduckgo.com/ip3/api-staging.katana.network.ico",
+    "url": "https://api.katana.network",
+    "icon": "https://icons.duckduckgo.com/ip3/api.katana.network.ico",
     "slug": "katana-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +56,9 @@
     "timeWeek": 422,
     "timeMonth": 348,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-17": 0
+    }
   },
   {
     "name": "vault rewards api",
@@ -93,6 +97,24 @@
     "timeWeek": 457,
     "timeMonth": 436,
     "timeYear": 415,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "zerion",
+    "url": "https://api.zerion.io/health",
+    "icon": "https://icons.duckduckgo.com/ip3/api.zerion.io.ico",
+    "slug": "zerion",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   }
 ]

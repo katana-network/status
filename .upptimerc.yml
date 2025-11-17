@@ -7,8 +7,10 @@ sites:
     url: https://katana.network
   - name: katana app
     url: https://app.katana.network
+    __dangerous__body_down_if_text_missing: 'WETH vault'
   - name: katana api
-    url: https://api-staging.katana.network
+    url: https://api.katana.network
+    __dangerous__body_down_if_text_missing: '"status":"healthy"'
   - name: vault rewards api
     url: https://vault-rewards-api.katana.network/api/v1/health
   - name: public rpc
@@ -21,6 +23,9 @@ sites:
       - 200
     # This expects the result to be false (meaning synced)
     __dangerous__body_down_if_text_missing: '"result":false'
+  - name: zerion
+    url: https://api.zerion.io/health
+    __dangerous__body_down_if_text_missing: '"status":"ok"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
