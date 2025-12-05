@@ -1,7 +1,7 @@
 url: https://api.katana.network/health
-status: up
-code: 200
-responseTime: 376
-lastUpdated: 2025-12-04T23:01:39.041Z
+status: down
+code: 500
+responseTime: 195
+lastUpdated: 2025-12-05T08:55:12.971Z
 startTime: 2025-09-19T18:40:02.273Z
 generator: Upptime <https://github.com/upptime/upptime>
