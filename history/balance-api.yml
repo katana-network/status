@@ -1,7 +1,7 @@
 url: https://balance-api-gcp.polygon.technology/health-check
 status: up
 code: 200
-responseTime: 503
-lastUpdated: 2026-01-12T23:01:26.393Z
+responseTime: 585
+lastUpdated: 2026-01-13T23:01:29.269Z
 startTime: 2025-11-17T12:45:59.210Z
 generator: Upptime <https://github.com/upptime/upptime>
