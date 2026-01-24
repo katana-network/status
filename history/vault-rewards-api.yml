@@ -1,7 +1,7 @@
 url: https://vault-rewards-api.katana.network/api/v1/health
 status: up
 code: 200
-responseTime: 606
-lastUpdated: 2026-01-23T23:01:25.734Z
+responseTime: 401
+lastUpdated: 2026-01-24T23:01:27.482Z
 startTime: 2025-09-19T18:40:03.055Z
 generator: Upptime <https://github.com/upptime/upptime>
