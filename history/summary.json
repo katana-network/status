@@ -62,6 +62,26 @@
     }
   },
   {
+    "name": "katana qesting api",
+    "url": "https://questing-api.katana.network/health",
+    "icon": "https://icons.duckduckgo.com/ip3/questing-api.katana.network.ico",
+    "slug": "katana-qesting-api",
+    "status": "up",
+    "uptime": "11.88%",
+    "uptimeDay": "11.88%",
+    "uptimeWeek": "11.88%",
+    "uptimeMonth": "11.88%",
+    "uptimeYear": "11.88%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-02-04": 0
+    }
+  },
+  {
     "name": "vault rewards api",
     "url": "https://vault-rewards-api.katana.network/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/vault-rewards-api.katana.network.ico",
