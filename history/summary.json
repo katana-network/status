@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/questing-api.katana.network.ico",
     "slug": "katana-questing-api",
     "status": "up",
-    "uptime": "4.77%",
-    "uptimeDay": "4.77%",
-    "uptimeWeek": "4.77%",
-    "uptimeMonth": "4.77%",
-    "uptimeYear": "4.77%",
+    "uptime": "4.78%",
+    "uptimeDay": "4.78%",
+    "uptimeWeek": "4.78%",
+    "uptimeMonth": "4.78%",
+    "uptimeYear": "4.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-04": 0
+      "2026-02-04": 3
     }
   },
   {
