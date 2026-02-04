@@ -67,19 +67,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/questing-api.katana.network.ico",
     "slug": "katana-questing-api",
     "status": "up",
-    "uptime": "4.78%",
-    "uptimeDay": "4.78%",
-    "uptimeWeek": "4.78%",
-    "uptimeMonth": "4.78%",
-    "uptimeYear": "4.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-02-04": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "vault rewards api",
