@@ -11,6 +11,10 @@ sites:
   - name: katana api
     url: https://api.katana.network/health
     __dangerous__body_down_if_text_missing: '"status":"healthy"'
+  - name: katana questing api
+    url: https://questing-api.katana.network/health
+    __dangerous__body_down_if_text_missing: '"status":"OK"'
+    maxResponseTime: 5000
   - name: vault rewards api
     url: https://vault-rewards-api.katana.network/api/v1/health
   - name: public rpc
