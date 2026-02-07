@@ -67,19 +67,19 @@
     "url": "https://questing-api.katana.network/health",
     "icon": "https://icons.duckduckgo.com/ip3/questing-api.katana.network.ico",
     "slug": "katana-questing-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 214,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 384,
+    "timeDay": 278,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2026-02-07": 0
+      "2026-02-07": 28
     }
   },
   {
