@@ -67,18 +67,20 @@
     "url": "https://questing-api.katana.network/health",
     "icon": "https://icons.duckduckgo.com/ip3/questing-api.katana.network.ico",
     "slug": "katana-questing-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 218,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
-    "dailyMinutesDown": {}
+    "time": 381,
+    "timeDay": 214,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
+    "dailyMinutesDown": {
+      "2026-02-07": 0
+    }
   },
   {
     "name": "vault rewards api",
