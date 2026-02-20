@@ -206,11 +206,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sushi.com.ico",
     "slug": "sushiswap-api",
     "status": "up",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "0.88%",
+    "uptimeDay": "0.88%",
+    "uptimeWeek": "0.88%",
+    "uptimeMonth": "0.88%",
+    "uptimeYear": "0.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -316,11 +316,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpc.katana.network.ico",
     "slug": "katana-rpc-chain-id",
     "status": "up",
-    "uptime": "0.41%",
-    "uptimeDay": "0.41%",
-    "uptimeWeek": "0.41%",
-    "uptimeMonth": "0.41%",
-    "uptimeYear": "0.41%",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -365,7 +365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-20": 73
+      "2026-02-20": 74
     }
   },
   {
