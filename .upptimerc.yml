@@ -33,12 +33,116 @@ sites:
   - name: balance api
     url: https://balance-api-gcp.polygon.technology/health-check
     __dangerous__body_down_if_text_missing: '"success":true'
-#  - name: yearn api
-#    url:
-#  - name: morpho api
-#    url:
-#  - name: leaderboard api
-#    url: https://leaderboard.katana.network/api/_health/live
+  # --- External Dependencies ---
+
+  - name: yearn api
+    url: https://kong.yearn.farm/api/gql
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"query":"{ __typename }"}'
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
+  - name: morpho api
+    url: https://blue-api.morpho.org/graphql
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"query":"{ __typename }"}'
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
+  - name: sushiswap api
+    url: https://api.sushi.com/swap/v5/747474
+    maxResponseTime: 5000
+
+  - name: charm finance api
+    url: https://stitching-katana-92e4c8313e0e.herokuapp.com/747474
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"query":"{ __typename }"}'
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
+  - name: coingecko api
+    url: https://api.coingecko.com/api/v3/ping
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
+  - name: merkl api
+    url: https://api.merkl.xyz/v4/tokens/reward/747474
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+
+  - name: trails (sequence)
+    url: https://trails-api.sequence.app/rpc/Trails/GetIntent
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"intentId":"health-check-00000000-0000-0000-0000-000000000000"}'
+    expectedStatusCodes:
+      - 200
+      - 400
+    maxResponseTime: 5000
+
+  - name: configcat cdn
+    url: https://cdn-global.configcat.com
+    expectedStatusCodes:
+      - 200
+      - 403
+    maxResponseTime: 3000
+
+  # --- Chain Health (Katana 747474) ---
+
+  # Verify chain ID is correct (0xb6862 = 747474)
+  - name: katana rpc - chain id
+    url: https://rpc.katana.network
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}'
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"0xb6862"'
+    maxResponseTime: 5000
+
+  # Verify chain returns a block number (node has data)
+  - name: katana rpc - block number
+    url: https://rpc.katana.network
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"jsonrpc":"2.0","method":"eth_blockNumber","params":[],"id":1}'
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"result":"0x'
+    maxResponseTime: 5000
+
+  # Conduit RPC directly (bypasses eRPC) - uses GitHub Secret
+  - name: conduit katana rpc
+    url: $CONDUIT_KATANA_ENDPOINT
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}'
+    expectedStatusCodes:
+      - 200
+    __dangerous__body_down_if_text_missing: '"0xb6862"'
+    maxResponseTime: 5000
+
+  # Block explorer - if it loads, chain data pipeline is working
+  - name: katanascan explorer
+    url: https://katanascan.com
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
