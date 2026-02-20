@@ -56,7 +56,7 @@ sites:
     maxResponseTime: 5000
 
   - name: sushiswap api
-    url: https://api.sushi.com/swap/v5/747474
+    url: https://api.sushi.com/price/v1/747474
     maxResponseTime: 5000
 
   - name: charm finance api
@@ -110,7 +110,7 @@ sites:
     body: '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}'
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: '"0xb6862"'
+    __dangerous__body_down_if_text_missing: '"0xb67d2"'
     maxResponseTime: 5000
 
   # Verify chain returns a block number (node has data)
@@ -134,7 +134,7 @@ sites:
     body: '{"jsonrpc":"2.0","method":"eth_chainId","params":[],"id":1}'
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: '"0xb6862"'
+    __dangerous__body_down_if_text_missing: '"0xb67d2"'
     maxResponseTime: 5000
 
   # Block explorer - if it loads, chain data pipeline is working
