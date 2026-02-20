@@ -59,16 +59,6 @@ sites:
     url: https://api.sushi.com/price/v1/747474
     maxResponseTime: 5000
 
-  - name: charm finance api
-    url: https://stitching-katana-92e4c8313e0e.herokuapp.com/747474
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{"query":"{ __typename }"}'
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-
   - name: coingecko api
     url: https://api.coingecko.com/api/v3/ping
     expectedStatusCodes:
