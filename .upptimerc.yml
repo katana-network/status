@@ -41,17 +41,87 @@ sites:
 #    url: https://leaderboard.katana.network/api/_health/live
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.katana.network
   apiBaseUrl: https://api.github.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/katana-network/status/master/assets/katana-icon.svg
   name: katana status
-  introTitle: "Uptime and monitor for critical katana components"
-  introMessage: This status page monitors key components necessary for the katana ecosystem and app.
+  theme: dark
+  introTitle: "**Katana** Status"
+  introMessage: Real-time monitoring for the Katana ecosystem — app, APIs, RPC, and external dependencies.
   navbar:
     - title: Status
       href: /
+    - title: App
+      href: https://app.katana.network
+    - title: Website
+      href: https://katana.network
+  css: |
+    /* Katana Brand Theme — colors from Figma design tokens */
+    :root {
+      --body-background-color: #070B20;       /* Flats/Dark Ink */
+      --body-text-color: #DADCE7;             /* white/100 */
+      --card-background-color: #0D1126;       /* dark-blue-2/800 */
+      --nav-background-color: #0D1126;        /* dark-blue-2/800 */
+      --nav-border-bottom-color: rgba(218, 220, 231, 0.08); /* white/8 */
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+
+    /* Links and interactive elements — katana blue */
+    a {
+      color: #0550DB;
+    }
+    a:hover {
+      color: #4B8AFF;
+    }
+
+    /* Up/operational indicators — katana green */
+    .color-dot.up, .badge.up {
+      background-color: #0DFFAA !important;
+    }
+    .up .color-dot {
+      background-color: #0DFFAA !important;
+    }
+
+    /* Down/error indicators — katana red */
+    .color-dot.down, .badge.down {
+      background-color: #F12211 !important;
+    }
+    .down .color-dot {
+      background-color: #F12211 !important;
+    }
+
+    /* Degraded indicators — katana yellow/spark */
+    .color-dot.degraded, .badge.degraded {
+      background-color: #F6FF0D !important;
+    }
+    .degraded .color-dot {
+      background-color: #F6FF0D !important;
+    }
+
+    /* Card and section styling */
+    .card, section {
+      border: 1px solid rgba(218, 220, 231, 0.04); /* white/4 border-subtle */
+      border-radius: 16px;
+    }
+
+    /* Nav styling */
+    nav, .navbar {
+      border-bottom: 1px solid rgba(218, 220, 231, 0.08) !important;
+    }
+
+    /* Muted/secondary text */
+    .text-muted, .text-secondary, small, .description {
+      color: rgba(218, 220, 231, 0.48); /* white/48 */
+    }
+
+    /* Chart colors */
+    .chart-up, .graph-up {
+      stroke: #0DFFAA;
+      fill: rgba(13, 255, 170, 0.12);
+    }
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
