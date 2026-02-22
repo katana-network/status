@@ -1,7 +1,7 @@
 url: https://api.merkl.xyz/v4/tokens/reward/747474
-status: up
+status: degraded
 code: 200
-responseTime: 694
-lastUpdated: 2026-02-21T23:02:51.302Z
+responseTime: 15216
+lastUpdated: 2026-02-22T18:15:35.619Z
 startTime: 2026-02-20T12:15:28.331Z
 generator: Upptime <https://github.com/upptime/upptime>
