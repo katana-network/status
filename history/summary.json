@@ -189,11 +189,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blue-api.morpho.org.ico",
     "slug": "morpho-api",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 2490,
     "timeDay": 519,
     "timeWeek": 1110,
@@ -364,17 +364,19 @@
     "url": "https://katanascan.com",
     "icon": "https://icons.duckduckgo.com/ip3/katanascan.com.ico",
     "slug": "katanascan-explorer",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 404,
-    "timeDay": 375,
-    "timeWeek": 357,
-    "timeMonth": 404,
-    "timeYear": 404,
-    "dailyMinutesDown": {}
+    "time": 1412,
+    "timeDay": 14503,
+    "timeWeek": 3892,
+    "timeMonth": 1412,
+    "timeYear": 1412,
+    "dailyMinutesDown": {
+      "2026-03-12": 0
+    }
   }
 ]
