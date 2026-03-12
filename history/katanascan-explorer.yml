@@ -1,7 +1,7 @@
 url: https://katanascan.com
-status: degraded
+status: up
 code: 200
-responseTime: 28630
-lastUpdated: 2026-03-12T07:24:47.773Z
+responseTime: 371
+lastUpdated: 2026-03-12T07:45:26.877Z
 startTime: 2026-02-20T12:15:36.982Z
 generator: Upptime <https://github.com/upptime/upptime>
