@@ -1,7 +1,7 @@
 url: https://blue-api.morpho.org/graphql
-status: degraded
-code: 504
-responseTime: 29386
-lastUpdated: 2026-03-13T00:47:34.441Z
+status: up
+code: 200
+responseTime: 4979
+lastUpdated: 2026-03-13T01:21:41.256Z
 startTime: 2026-02-20T12:15:22.656Z
 generator: Upptime <https://github.com/upptime/upptime>
