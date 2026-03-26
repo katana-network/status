@@ -1,7 +1,7 @@
 url: https://kong.yearn.farm/api/gql
-status: up
+status: degraded
 code: 200
-responseTime: 367
-lastUpdated: 2026-03-25T23:08:01.177Z
+responseTime: 13457
+lastUpdated: 2026-03-26T17:41:55.698Z
 startTime: 2026-02-20T12:15:21.653Z
 generator: Upptime <https://github.com/upptime/upptime>
