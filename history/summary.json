@@ -162,7 +162,7 @@
     "time": 935,
     "timeDay": 738,
     "timeWeek": 1985,
-    "timeMonth": 1049,
+    "timeMonth": 1072,
     "timeYear": 935,
     "dailyMinutesDown": {
       "2026-03-26": 41,
@@ -264,11 +264,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.merkl.xyz.ico",
     "slug": "merkl-api",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.38%",
     "uptimeMonth": "97.60%",
-    "uptimeYear": "98.38%",
+    "uptimeYear": "98.41%",
     "time": 1654,
     "timeDay": 568,
     "timeWeek": 3296,
@@ -381,9 +381,9 @@
     "url": "https://katanascan.com",
     "icon": "https://icons.duckduckgo.com/ip3/katanascan.com.ico",
     "slug": "katanascan-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -393,6 +393,7 @@
     "timeMonth": 1166,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2026-04-08": 0,
       "2026-03-12": 21
     }
   }
