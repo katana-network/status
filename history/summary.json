@@ -155,7 +155,7 @@
     "slug": "balance-api",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.72%",
+    "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.93%",
@@ -165,6 +165,7 @@
     "timeMonth": 1032,
     "timeYear": 927,
     "dailyMinutesDown": {
+      "2026-04-09": 0,
       "2026-04-08": 18,
       "2026-03-26": 41,
       "2026-03-17": 20,
