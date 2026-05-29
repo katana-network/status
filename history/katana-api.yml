@@ -1,7 +1,7 @@
 url: https://api.katana.network/health
-status: degraded
+status: up
 code: 200
-responseTime: 193
-lastUpdated: 2026-05-29T13:59:52.873Z
+responseTime: 169
+lastUpdated: 2026-05-29T14:23:38.847Z
 startTime: 2025-09-19T18:40:02.273Z
 generator: Upptime <https://github.com/upptime/upptime>
