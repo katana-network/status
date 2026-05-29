@@ -65,21 +65,22 @@
     "url": "https://api.katana.network/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.katana.network.ico",
     "slug": "katana-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 348,
-    "timeDay": 407,
-    "timeWeek": 373,
-    "timeMonth": 300,
+    "timeDay": 382,
+    "timeWeek": 371,
+    "timeMonth": 302,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2026-03-18": 27,
-      "2026-04-16": 42
+      "2026-04-16": 42,
+      "2026-05-29": 0
     }
   },
   {
