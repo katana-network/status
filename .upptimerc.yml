@@ -10,7 +10,10 @@ sites:
     maxResponseTime: 1000
   - name: katana api
     url: https://api.katana.network/health
-    __dangerous__body_down_if_text_missing: '"status":"healthy"'
+    # "degraded" -> shown as degraded (yellow), not down.
+    # down only if there's no status field at all (e.g. a 5xx error page).
+    __dangerous__body_degraded: '"status":"degraded"'
+    __dangerous__body_down_if_text_missing: '"status":"'
   - name: katana questing api
     url: https://questing-api.katana.network/health
     __dangerous__body_down_if_text_missing: '"status":"OK"'
