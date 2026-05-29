@@ -67,8 +67,8 @@
     "slug": "katana-api",
     "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 347,
@@ -80,7 +80,7 @@
       "2025-12-05": 27,
       "2026-03-18": 27,
       "2026-04-16": 42,
-      "2026-05-29": 35
+      "2026-05-29": 36
     }
   },
   {
