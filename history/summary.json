@@ -230,17 +230,17 @@
     "url": "https://blue-api.morpho.org/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/blue-api.morpho.org.ico",
     "slug": "morpho-api",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 2397,
-    "timeDay": 234,
-    "timeWeek": 480,
-    "timeMonth": 523,
-    "timeYear": 2397,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.78%",
+    "time": 2380,
+    "timeDay": 239,
+    "timeWeek": 457,
+    "timeMonth": 515,
+    "timeYear": 2380,
     "dailyMinutesDown": {
       "2026-02-24": 33,
       "2026-02-26": 34,
@@ -250,7 +250,7 @@
       "2026-03-27": 22,
       "2026-03-28": 30,
       "2026-03-29": 18,
-      "2026-06-02": 0
+      "2026-06-02": 92
     }
   },
   {
