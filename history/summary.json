@@ -26,17 +26,17 @@
     "url": "https://app.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/app.katana.network.ico",
     "slug": "katana-app",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.29%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "92.70%",
-    "uptimeMonth": "94.12%",
+    "uptimeDay": "91.87%",
+    "uptimeWeek": "93.03%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "99.29%",
-    "time": 591,
-    "timeDay": 1093,
-    "timeWeek": 821,
-    "timeMonth": 983,
-    "timeYear": 591,
+    "time": 594,
+    "timeDay": 1298,
+    "timeWeek": 871,
+    "timeMonth": 990,
+    "timeYear": 594,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2026-02-04": 27,
@@ -63,7 +63,7 @@
       "2026-05-31": 196,
       "2026-06-01": 72,
       "2026-06-02": 97,
-      "2026-06-03": 108
+      "2026-06-03": 118
     }
   },
   {
@@ -231,17 +231,17 @@
     "url": "https://blue-api.morpho.org/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/blue-api.morpho.org.ico",
     "slug": "morpho-api",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "87.47%",
-    "uptimeWeek": "97.30%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.66%",
-    "time": 2287,
-    "timeDay": 275,
-    "timeWeek": 346,
-    "timeMonth": 482,
-    "timeYear": 2287,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "84.05%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.62%",
+    "time": 2278,
+    "timeDay": 425,
+    "timeWeek": 389,
+    "timeMonth": 496,
+    "timeYear": 2278,
     "dailyMinutesDown": {
       "2026-02-24": 33,
       "2026-02-26": 34,
@@ -252,7 +252,7 @@
       "2026-03-28": 30,
       "2026-03-29": 18,
       "2026-06-02": 163,
-      "2026-06-03": 109
+      "2026-06-03": 172
     }
   },
   {
@@ -421,11 +421,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan.com.ico",
     "slug": "katanascan-explorer",
     "status": "down",
-    "uptime": "99.90%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.85%",
+    "uptimeDay": "94.95%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.85%",
     "time": 772,
     "timeDay": 457,
     "timeWeek": 290,
@@ -437,7 +437,7 @@
       "2026-04-18": 21,
       "2026-04-22": 33,
       "2026-05-26": 53,
-      "2026-06-03": 0
+      "2026-06-03": 73
     }
   }
 ]
