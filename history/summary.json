@@ -13,7 +13,7 @@
     "time": 218,
     "timeDay": 97,
     "timeWeek": 129,
-    "timeMonth": 143,
+    "timeMonth": 145,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2025-10-20": 16,
@@ -26,17 +26,17 @@
     "url": "https://app.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/app.katana.network.ico",
     "slug": "katana-app",
-    "status": "degraded",
-    "uptime": "99.27%",
-    "uptimeDay": "86.76%",
-    "uptimeWeek": "92.30%",
-    "uptimeMonth": "93.93%",
-    "uptimeYear": "99.27%",
-    "time": 598,
-    "timeDay": 1291,
-    "timeWeek": 896,
-    "timeMonth": 994,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "99.26%",
+    "uptimeDay": "84.17%",
+    "uptimeWeek": "91.93%",
+    "uptimeMonth": "93.85%",
+    "uptimeYear": "99.26%",
+    "time": 597,
+    "timeDay": 1134,
+    "timeWeek": 875,
+    "timeMonth": 995,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2026-02-04": 27,
@@ -63,7 +63,7 @@
       "2026-05-31": 196,
       "2026-06-01": 72,
       "2026-06-02": 97,
-      "2026-06-03": 192
+      "2026-06-03": 229
     }
   },
   {
@@ -80,7 +80,7 @@
     "time": 345,
     "timeDay": 186,
     "timeWeek": 265,
-    "timeMonth": 300,
+    "timeMonth": 304,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -103,7 +103,7 @@
     "time": 367,
     "timeDay": 171,
     "timeWeek": 278,
-    "timeMonth": 316,
+    "timeMonth": 321,
     "timeYear": 367,
     "dailyMinutesDown": {
       "2026-02-07": 28,
@@ -128,7 +128,7 @@
     "time": 347,
     "timeDay": 215,
     "timeWeek": 303,
-    "timeMonth": 275,
+    "timeMonth": 272,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2025-11-12": 18,
@@ -154,7 +154,7 @@
     "time": 382,
     "timeDay": 274,
     "timeWeek": 230,
-    "timeMonth": 251,
+    "timeMonth": 250,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2025-12-05": 27
@@ -174,7 +174,7 @@
     "time": 225,
     "timeDay": 126,
     "timeWeek": 177,
-    "timeMonth": 158,
+    "timeMonth": 161,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -192,7 +192,7 @@
     "time": 915,
     "timeDay": 777,
     "timeWeek": 672,
-    "timeMonth": 662,
+    "timeMonth": 667,
     "timeYear": 915,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -220,7 +220,7 @@
     "time": 453,
     "timeDay": 356,
     "timeWeek": 336,
-    "timeMonth": 289,
+    "timeMonth": 295,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2026-03-26": 27
@@ -240,7 +240,7 @@
     "time": 2249,
     "timeDay": 361,
     "timeWeek": 376,
-    "timeMonth": 485,
+    "timeMonth": 488,
     "timeYear": 2249,
     "dailyMinutesDown": {
       "2026-02-24": 33,
@@ -269,7 +269,7 @@
     "time": 160,
     "timeDay": 184,
     "timeWeek": 127,
-    "timeMonth": 143,
+    "timeMonth": 146,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2026-02-20": 73
@@ -310,7 +310,7 @@
     "time": 1345,
     "timeDay": 592,
     "timeWeek": 592,
-    "timeMonth": 723,
+    "timeMonth": 721,
     "timeYear": 1345,
     "dailyMinutesDown": {
       "2026-02-22": 18,
@@ -335,7 +335,7 @@
     "time": 204,
     "timeDay": 158,
     "timeWeek": 168,
-    "timeMonth": 176,
+    "timeMonth": 174,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -371,7 +371,7 @@
     "time": 185,
     "timeDay": 146,
     "timeWeek": 156,
-    "timeMonth": 163,
+    "timeMonth": 164,
     "timeYear": 185,
     "dailyMinutesDown": {
       "2026-02-20": 73
@@ -391,7 +391,7 @@
     "time": 163,
     "timeDay": 148,
     "timeWeek": 191,
-    "timeMonth": 177,
+    "timeMonth": 180,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -421,15 +421,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan.com.ico",
     "slug": "katanascan-explorer",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "85.96%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.73%",
+    "uptimeDay": "82.71%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.73%",
     "time": 772,
     "timeDay": 457,
     "timeWeek": 290,
-    "timeMonth": 305,
+    "timeMonth": 310,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2026-03-12": 21,
@@ -437,7 +437,7 @@
       "2026-04-18": 21,
       "2026-04-22": 33,
       "2026-05-26": 53,
-      "2026-06-03": 202
+      "2026-06-03": 249
     }
   }
 ]
