@@ -232,17 +232,17 @@
     "url": "https://blue-api.morpho.org/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/blue-api.morpho.org.ico",
     "slug": "morpho-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "93.83%",
+    "uptimeDay": "93.80%",
     "uptimeWeek": "95.01%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.51%",
-    "time": 2143,
-    "timeDay": 279,
-    "timeWeek": 327,
-    "timeMonth": 456,
-    "timeYear": 2143,
+    "time": 2128,
+    "timeDay": 245,
+    "timeWeek": 316,
+    "timeMonth": 447,
+    "timeYear": 2128,
     "dailyMinutesDown": {
       "2026-02-24": 33,
       "2026-02-26": 34,
@@ -254,7 +254,8 @@
       "2026-03-29": 18,
       "2026-06-02": 163,
       "2026-06-03": 251,
-      "2026-06-04": 89
+      "2026-06-04": 89,
+      "2026-06-05": 1
     }
   },
   {
@@ -423,13 +424,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan.com.ico",
     "slug": "katanascan-explorer",
     "status": "down",
-    "uptime": "98.76%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "82.94%",
-    "uptimeMonth": "95.95%",
-    "uptimeYear": "98.76%",
+    "uptime": "98.70%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "82.02%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "98.70%",
     "time": 755,
-    "timeDay": 17,
+    "timeDay": 15,
     "timeWeek": 219,
     "timeMonth": 289,
     "timeYear": 755,
@@ -440,7 +441,7 @@
       "2026-04-22": 33,
       "2026-05-26": 53,
       "2026-06-03": 282,
-      "2026-06-05": 40,
+      "2026-06-05": 132,
       "2026-06-04": 1397
     }
   }
