@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.katana.network.ico",
     "slug": "katana-app",
     "status": "degraded",
-    "uptime": "99.18%",
-    "uptimeDay": "86.08%",
-    "uptimeWeek": "89.02%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "99.18%",
+    "uptime": "99.16%",
+    "uptimeDay": "81.02%",
+    "uptimeWeek": "88.30%",
+    "uptimeMonth": "93.01%",
+    "uptimeYear": "99.16%",
     "time": 600,
     "timeDay": 665,
     "timeWeek": 869,
@@ -65,7 +65,7 @@
       "2026-06-02": 97,
       "2026-06-03": 229,
       "2026-06-04": 216,
-      "2026-06-05": 78
+      "2026-06-05": 151
     }
   },
   {
@@ -76,12 +76,12 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.88%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
     "time": 344,
     "timeDay": 215,
-    "timeWeek": 234,
+    "timeWeek": 243,
     "timeMonth": 298,
     "timeYear": 344,
     "dailyMinutesDown": {
@@ -233,17 +233,17 @@
     "url": "https://blue-api.morpho.org/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/blue-api.morpho.org.ico",
     "slug": "morpho-api",
-    "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "82.28%",
-    "uptimeWeek": "93.36%",
-    "uptimeMonth": "98.47%",
-    "uptimeYear": "99.40%",
-    "time": 2079,
-    "timeDay": 248,
-    "timeWeek": 305,
-    "timeMonth": 433,
-    "timeYear": 2079,
+    "status": "up",
+    "uptime": "99.35%",
+    "uptimeDay": "77.26%",
+    "uptimeWeek": "92.65%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "99.35%",
+    "time": 2067,
+    "timeDay": 252,
+    "timeWeek": 304,
+    "timeMonth": 430,
+    "timeYear": 2067,
     "dailyMinutesDown": {
       "2026-02-24": 33,
       "2026-02-26": 34,
@@ -256,7 +256,7 @@
       "2026-06-02": 163,
       "2026-06-03": 251,
       "2026-06-04": 89,
-      "2026-06-05": 167
+      "2026-06-05": 239
     }
   },
   {
@@ -425,11 +425,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan.com.ico",
     "slug": "katanascan-explorer",
     "status": "down",
-    "uptime": "98.23%",
+    "uptime": "98.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.88%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "98.23%",
+    "uptimeWeek": "74.16%",
+    "uptimeMonth": "93.93%",
+    "uptimeYear": "98.18%",
     "time": 755,
     "timeDay": 15,
     "timeWeek": 221,
@@ -442,7 +442,7 @@
       "2026-04-22": 33,
       "2026-05-26": 53,
       "2026-06-03": 282,
-      "2026-06-05": 852,
+      "2026-06-05": 925,
       "2026-06-04": 1397
     }
   }
