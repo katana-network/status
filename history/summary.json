@@ -26,17 +26,17 @@
     "url": "https://app.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/app.katana.network.ico",
     "slug": "katana-app",
-    "status": "degraded",
-    "uptime": "99.20%",
-    "uptimeDay": "91.44%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "93.35%",
-    "uptimeYear": "99.20%",
-    "time": 599,
-    "timeDay": 641,
-    "timeWeek": 871,
-    "timeMonth": 985,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "86.13%",
+    "uptimeWeek": "89.03%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "99.18%",
+    "time": 598,
+    "timeDay": 574,
+    "timeWeek": 857,
+    "timeMonth": 981,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2025-12-05": 27,
       "2026-02-04": 27,
@@ -65,7 +65,7 @@
       "2026-06-02": 97,
       "2026-06-03": 229,
       "2026-06-04": 216,
-      "2026-06-05": 0
+      "2026-06-05": 77
     }
   },
   {
@@ -425,11 +425,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan.com.ico",
     "slug": "katanascan-explorer",
     "status": "down",
-    "uptime": "98.47%",
+    "uptime": "98.42%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.47%",
-    "uptimeMonth": "94.92%",
-    "uptimeYear": "98.47%",
+    "uptimeWeek": "77.71%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "98.42%",
     "time": 755,
     "timeDay": 15,
     "timeWeek": 219,
@@ -442,7 +442,7 @@
       "2026-04-22": 33,
       "2026-05-26": 53,
       "2026-06-03": 282,
-      "2026-06-05": 491,
+      "2026-06-05": 567,
       "2026-06-04": 1397
     }
   }
