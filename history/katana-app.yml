@@ -1,7 +1,7 @@
 url: https://app.katana.network
-status: up
+status: degraded
 code: 200
-responseTime: 412
-lastUpdated: 2026-07-23T19:23:32.554Z
+responseTime: 1224
+lastUpdated: 2026-07-23T20:15:39.441Z
 startTime: 2025-09-19T18:39:59.539Z
 generator: Upptime <https://github.com/upptime/upptime>
