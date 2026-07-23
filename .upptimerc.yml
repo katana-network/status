@@ -18,8 +18,6 @@ sites:
     url: https://questing-api.katana.network/health
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     maxResponseTime: 5000
-  - name: vault rewards api
-    url: https://vault-rewards-api.katana.network/api/v1/health
   - name: public rpc
     url: https://rpc.katana.network
     method: POST
