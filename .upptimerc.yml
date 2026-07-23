@@ -130,10 +130,18 @@ sites:
 
   # Block explorer - if it loads, chain data pipeline is working
   - name: katanascan explorer
-    url: https://katanascan.com
+    # katanascan.com is behind Cloudflare bot protection, which returns 403 to
+    # the GitHub Actions runner IP even though the site is up for real users.
+    # We can't allowlist the runner (it's Etherscan's Cloudflare zone), so we
+    # probe it through our own Cloudflare Worker instead: the Worker fetches
+    # katanascan.com from Cloudflare's network (not blocked) and reports
+    # {"status":"up"} / HTTP 200 when it's reachable.
+    # Source: github.com/katana-network/katanascan-liveness-probe
+    url: https://katanascan-liveness-probe.polygon-technology.workers.dev
     expectedStatusCodes:
       - 200
-    maxResponseTime: 5000
+    __dangerous__body_down_if_text_missing: '"status":"up"'
+    maxResponseTime: 10000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
