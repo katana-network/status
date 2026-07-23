@@ -124,33 +124,6 @@
     }
   },
   {
-    "name": "vault rewards api",
-    "url": "https://vault-rewards-api.katana.network/api/v1/health",
-    "icon": "https://icons.duckduckgo.com/ip3/vault-rewards-api.katana.network.ico",
-    "slug": "vault-rewards-api",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 350,
-    "timeDay": 625,
-    "timeWeek": 469,
-    "timeMonth": 362,
-    "timeYear": 350,
-    "dailyMinutesDown": {
-      "2025-11-12": 18,
-      "2025-11-17": 31,
-      "2025-11-24": 49,
-      "2025-12-05": 27,
-      "2025-12-27": 48,
-      "2026-04-16": 42,
-      "2026-05-23": 85,
-      "2026-07-23": 0
-    }
-  },
-  {
     "name": "public rpc",
     "url": "https://rpc.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/rpc.katana.network.ico",
