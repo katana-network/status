@@ -140,7 +140,8 @@ sites:
     url: https://katanascan-liveness-probe.polygon-technology.workers.dev
     expectedStatusCodes:
       - 200
-    __dangerous__body_down_if_text_missing: '"status":"up"'
+    # matches the probe's pretty-printed JSON: `"status": "up"` (note the space)
+    __dangerous__body_down_if_text_missing: '"status": "up"'
     maxResponseTime: 10000
 
 status-website:
