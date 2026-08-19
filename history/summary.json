@@ -12,8 +12,8 @@
     "uptimeYear": "99.99%",
     "time": 204,
     "timeDay": 55,
-    "timeWeek": 161,
-    "timeMonth": 162,
+    "timeWeek": 134,
+    "timeMonth": 165,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2025-10-20": 16,
@@ -28,17 +28,17 @@
     "slug": "katana-app",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "87.94%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "91.94%",
+    "uptimeDay": "88.69%",
+    "uptimeWeek": "91.53%",
+    "uptimeMonth": "91.91%",
     "uptimeYear": "99.26%",
     "time": 804,
     "timeDay": 1058,
-    "timeWeek": 1094,
-    "timeMonth": 975,
+    "timeWeek": 1098,
+    "timeMonth": 977,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2026-07-26": 60,
+      "2026-07-26": 87,
       "2026-07-27": 236,
       "2026-07-28": 221,
       "2026-07-29": 126,
@@ -61,7 +61,7 @@
       "2026-08-15": 103,
       "2026-08-16": 77,
       "2026-08-17": 101,
-      "2026-08-18": 174
+      "2026-08-18": 163
     }
   },
   {
@@ -77,8 +77,8 @@
     "uptimeYear": "99.97%",
     "time": 352,
     "timeDay": 637,
-    "timeWeek": 530,
-    "timeMonth": 397,
+    "timeWeek": 497,
+    "timeMonth": 402,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -100,8 +100,8 @@
     "uptimeYear": "99.91%",
     "time": 361,
     "timeDay": 628,
-    "timeWeek": 497,
-    "timeMonth": 381,
+    "timeWeek": 537,
+    "timeMonth": 385,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2026-02-07": 28,
@@ -127,7 +127,7 @@
     "time": 363,
     "timeDay": 312,
     "timeWeek": 289,
-    "timeMonth": 279,
+    "timeMonth": 281,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2025-12-05": 27
@@ -146,8 +146,8 @@
     "uptimeYear": "100.00%",
     "time": 217,
     "timeDay": 224,
-    "timeWeek": 181,
-    "timeMonth": 200,
+    "timeWeek": 189,
+    "timeMonth": 202,
     "timeYear": 217,
     "dailyMinutesDown": {}
   },
@@ -164,8 +164,8 @@
     "uptimeYear": "99.88%",
     "time": 844,
     "timeDay": 636,
-    "timeWeek": 498,
-    "timeMonth": 495,
+    "timeWeek": 481,
+    "timeMonth": 456,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -194,8 +194,8 @@
     "uptimeYear": "99.99%",
     "time": 411,
     "timeDay": 434,
-    "timeWeek": 338,
-    "timeMonth": 363,
+    "timeWeek": 364,
+    "timeMonth": 362,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2026-03-26": 27
@@ -214,8 +214,8 @@
     "uptimeYear": "98.97%",
     "time": 1394,
     "timeDay": 399,
-    "timeWeek": 431,
-    "timeMonth": 432,
+    "timeWeek": 436,
+    "timeMonth": 430,
     "timeYear": 1394,
     "dailyMinutesDown": {
       "2026-02-24": 33,
@@ -258,7 +258,7 @@
     "uptimeYear": "99.97%",
     "time": 149,
     "timeDay": 165,
-    "timeWeek": 151,
+    "timeWeek": 125,
     "timeMonth": 139,
     "timeYear": 149,
     "dailyMinutesDown": {
@@ -278,7 +278,7 @@
     "uptimeYear": "99.98%",
     "time": 134,
     "timeDay": 100,
-    "timeWeek": 124,
+    "timeWeek": 114,
     "timeMonth": 121,
     "timeYear": 134,
     "dailyMinutesDown": {
@@ -299,8 +299,8 @@
     "uptimeYear": "99.55%",
     "time": 952,
     "timeDay": 368,
-    "timeWeek": 407,
-    "timeMonth": 349,
+    "timeWeek": 409,
+    "timeMonth": 350,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2026-02-22": 18,
@@ -325,8 +325,8 @@
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 175,
-    "timeWeek": 196,
-    "timeMonth": 175,
+    "timeWeek": 199,
+    "timeMonth": 174,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -344,7 +344,7 @@
     "time": 73,
     "timeDay": 69,
     "timeWeek": 52,
-    "timeMonth": 56,
+    "timeMonth": 57,
     "timeYear": 73,
     "dailyMinutesDown": {}
   },
@@ -361,7 +361,7 @@
     "uptimeYear": "99.97%",
     "time": 176,
     "timeDay": 186,
-    "timeWeek": 179,
+    "timeWeek": 178,
     "timeMonth": 163,
     "timeYear": 176,
     "dailyMinutesDown": {
@@ -381,7 +381,7 @@
     "uptimeYear": "100.00%",
     "time": 169,
     "timeDay": 338,
-    "timeWeek": 205,
+    "timeWeek": 206,
     "timeMonth": 179,
     "timeYear": 169,
     "dailyMinutesDown": {}
@@ -399,8 +399,8 @@
     "uptimeYear": "99.95%",
     "time": 233,
     "timeDay": 209,
-    "timeWeek": 211,
-    "timeMonth": 212,
+    "timeWeek": 208,
+    "timeMonth": 214,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2026-02-20": 97,
@@ -413,15 +413,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan-liveness-probe.polygon-technology.workers.dev.ico",
     "slug": "katanascan-explorer",
     "status": "up",
-    "uptime": "62.29%",
+    "uptime": "62.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.23%",
-    "uptimeYear": "62.29%",
+    "uptimeMonth": "26.38%",
+    "uptimeYear": "62.30%",
     "time": 496,
     "timeDay": 192,
-    "timeWeek": 233,
-    "timeMonth": 159,
+    "timeWeek": 241,
+    "timeMonth": 164,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2026-03-12": 21,
