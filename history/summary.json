@@ -26,16 +26,16 @@
     "url": "https://app.katana.network",
     "icon": "https://icons.duckduckgo.com/ip3/app.katana.network.ico",
     "slug": "katana-app",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.35%",
-    "uptimeDay": "79.66%",
-    "uptimeWeek": "87.13%",
-    "uptimeMonth": "92.61%",
+    "uptimeDay": "80.32%",
+    "uptimeWeek": "87.22%",
+    "uptimeMonth": "92.63%",
     "uptimeYear": "99.35%",
     "time": 869,
-    "timeDay": 1231,
-    "timeWeek": 1147,
-    "timeMonth": 1051,
+    "timeDay": 1247,
+    "timeWeek": 1146,
+    "timeMonth": 1053,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2026-08-14": 21,
@@ -56,7 +56,7 @@
       "2026-08-29": 52,
       "2026-08-30": 94,
       "2026-08-31": 29,
-      "2026-09-01": 264
+      "2026-09-01": 254
     }
   },
   {
@@ -421,7 +421,7 @@
     "uptime": "64.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.48%",
+    "uptimeMonth": "71.55%",
     "uptimeYear": "64.98%",
     "time": 485,
     "timeDay": 499,
