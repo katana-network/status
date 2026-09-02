@@ -7,7 +7,7 @@ sites:
     url: https://katana.network
   - name: katana app
     url: https://app.katana.network
-    maxResponseTime: 1000
+    maxResponseTime: 2500
   - name: katana api
     url: https://api.katana.network/health
     # "degraded" -> shown as degraded (yellow), not down.
