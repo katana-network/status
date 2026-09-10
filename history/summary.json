@@ -13,7 +13,7 @@
     "time": 202,
     "timeDay": 105,
     "timeWeek": 164,
-    "timeMonth": 156,
+    "timeMonth": 159,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-10-20": 16,
@@ -72,7 +72,7 @@
     "time": 360,
     "timeDay": 915,
     "timeWeek": 503,
-    "timeMonth": 469,
+    "timeMonth": 472,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -96,7 +96,7 @@
     "time": 360,
     "timeDay": 235,
     "timeWeek": 342,
-    "timeMonth": 382,
+    "timeMonth": 383,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2026-02-07": 28,
@@ -123,7 +123,7 @@
     "time": 351,
     "timeDay": 361,
     "timeWeek": 402,
-    "timeMonth": 273,
+    "timeMonth": 274,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -148,7 +148,7 @@
     "time": 220,
     "timeDay": 347,
     "timeWeek": 250,
-    "timeMonth": 229,
+    "timeMonth": 235,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -166,7 +166,7 @@
     "time": 810,
     "timeDay": 655,
     "timeWeek": 443,
-    "timeMonth": 436,
+    "timeMonth": 441,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2025-12-05": 27,
@@ -197,7 +197,7 @@
     "time": 407,
     "timeDay": 488,
     "timeWeek": 364,
-    "timeMonth": 372,
+    "timeMonth": 373,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2026-03-26": 27
@@ -217,7 +217,7 @@
     "time": 1320,
     "timeDay": 329,
     "timeWeek": 610,
-    "timeMonth": 497,
+    "timeMonth": 496,
     "timeYear": 1320,
     "dailyMinutesDown": {
       "2026-02-24": 33,
@@ -261,7 +261,7 @@
     "time": 151,
     "timeDay": 127,
     "timeWeek": 177,
-    "timeMonth": 158,
+    "timeMonth": 160,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2026-02-20": 73
@@ -272,20 +272,21 @@
     "url": "https://api.coingecko.com/api/v3/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.coingecko.com.ico",
     "slug": "coingecko-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 134,
-    "timeDay": 163,
-    "timeWeek": 141,
-    "timeMonth": 136,
+    "timeDay": 91,
+    "timeWeek": 129,
+    "timeMonth": 131,
     "timeYear": 134,
     "dailyMinutesDown": {
       "2026-02-20": 22,
-      "2026-04-15": 27
+      "2026-04-15": 27,
+      "2026-09-10": 1
     }
   },
   {
@@ -302,7 +303,7 @@
     "time": 893,
     "timeDay": 465,
     "timeWeek": 425,
-    "timeMonth": 391,
+    "timeMonth": 394,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2026-02-22": 18,
@@ -328,7 +329,7 @@
     "time": 191,
     "timeDay": 222,
     "timeWeek": 194,
-    "timeMonth": 187,
+    "timeMonth": 188,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -346,7 +347,7 @@
     "time": 72,
     "timeDay": 130,
     "timeWeek": 96,
-    "timeMonth": 61,
+    "timeMonth": 62,
     "timeYear": 72,
     "dailyMinutesDown": {}
   },
@@ -356,15 +357,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rpc.katana.network.ico",
     "slug": "katana-rpc-chain-id",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 176,
     "timeDay": 218,
     "timeWeek": 182,
-    "timeMonth": 172,
+    "timeMonth": 174,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2026-02-20": 73,
@@ -385,7 +386,7 @@
     "time": 173,
     "timeDay": 210,
     "timeWeek": 237,
-    "timeMonth": 194,
+    "timeMonth": 196,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2026-08-21": 57,
@@ -406,7 +407,7 @@
     "time": 235,
     "timeDay": 426,
     "timeWeek": 257,
-    "timeMonth": 234,
+    "timeMonth": 236,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2026-02-20": 97,
@@ -419,15 +420,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan-liveness-probe.polygon-technology.workers.dev.ico",
     "slug": "katanascan-explorer",
     "status": "up",
-    "uptime": "66.42%",
+    "uptime": "66.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "66.42%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "66.56%",
     "time": 474,
     "timeDay": 348,
     "timeWeek": 250,
-    "timeMonth": 271,
+    "timeMonth": 273,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2026-03-12": 21,
