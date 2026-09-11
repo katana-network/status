@@ -252,20 +252,20 @@
     "url": "https://api.sushi.com/price/v1/747474",
     "icon": "https://icons.duckduckgo.com/ip3/api.sushi.com.ico",
     "slug": "sushiswap-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 151,
-    "timeDay": 150,
+    "timeDay": 151,
     "timeWeek": 160,
     "timeMonth": 158,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2026-02-20": 73,
-      "2026-09-11": 43
+      "2026-09-11": 33
     }
   },
   {
