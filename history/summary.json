@@ -35,7 +35,7 @@
     "time": 878,
     "timeDay": 515,
     "timeWeek": 1191,
-    "timeMonth": 1095,
+    "timeMonth": 1094,
     "timeYear": 878,
     "dailyMinutesDown": {
       "2026-08-16": 37,
@@ -252,20 +252,20 @@
     "url": "https://api.sushi.com/price/v1/747474",
     "icon": "https://icons.duckduckgo.com/ip3/api.sushi.com.ico",
     "slug": "sushiswap-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.07%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 151,
-    "timeDay": 150,
-    "timeWeek": 164,
-    "timeMonth": 159,
+    "timeDay": 146,
+    "timeWeek": 161,
+    "timeMonth": 158,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2026-02-20": 73,
-      "2026-09-11": 16
+      "2026-09-11": 27
     }
   },
   {
