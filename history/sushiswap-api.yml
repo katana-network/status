@@ -1,7 +1,7 @@
 url: https://api.sushi.com/price/v1/747474
-status: up
-code: 200
-responseTime: 144
-lastUpdated: 2026-09-11T21:37:16.118Z
+status: down
+code: 503
+responseTime: 22
+lastUpdated: 2026-09-11T21:45:45.239Z
 startTime: 2026-02-20T12:15:23.980Z
 generator: Upptime <https://github.com/upptime/upptime>
