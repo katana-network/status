@@ -254,9 +254,9 @@
     "slug": "sushiswap-api",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "84.46%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "85.04%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.90%",
     "time": 151,
     "timeDay": 148,
@@ -265,7 +265,7 @@
     "timeYear": 151,
     "dailyMinutesDown": {
       "2026-02-20": 73,
-      "2026-09-11": 224
+      "2026-09-11": 216
     }
   },
   {
@@ -420,11 +420,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan-liveness-probe.polygon-technology.workers.dev.ico",
     "slug": "katanascan-explorer",
     "status": "up",
-    "uptime": "66.74%",
+    "uptime": "66.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.74%",
+    "uptimeYear": "66.75%",
     "time": 473,
     "timeDay": 353,
     "timeWeek": 278,
