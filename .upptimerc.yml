@@ -56,10 +56,6 @@ sites:
       - 200
     maxResponseTime: 5000
 
-  - name: sushiswap api
-    url: https://api.sushi.com/price/v1/747474
-    maxResponseTime: 5000
-
   - name: coingecko api
     url: https://api.coingecko.com/api/v3/ping
     expectedStatusCodes:
