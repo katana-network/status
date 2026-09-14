@@ -249,28 +249,6 @@
     }
   },
   {
-    "name": "sushiswap api",
-    "url": "https://api.sushi.com/price/v1/747474",
-    "icon": "https://icons.duckduckgo.com/ip3/api.sushi.com.ico",
-    "slug": "sushiswap-api",
-    "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.78%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "99.83%",
-    "time": 151,
-    "timeDay": 276,
-    "timeWeek": 147,
-    "timeMonth": 153,
-    "timeYear": 151,
-    "dailyMinutesDown": {
-      "2026-02-20": 73,
-      "2026-09-11": 216,
-      "2026-09-12": 209
-    }
-  },
-  {
     "name": "coingecko api",
     "url": "https://api.coingecko.com/api/v3/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.coingecko.com.ico",
@@ -422,11 +400,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/katanascan-liveness-probe.polygon-technology.workers.dev.ico",
     "slug": "katanascan-explorer",
     "status": "up",
-    "uptime": "67.07%",
+    "uptime": "67.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.07%",
+    "uptimeYear": "67.15%",
     "time": 471,
     "timeDay": 255,
     "timeWeek": 273,
