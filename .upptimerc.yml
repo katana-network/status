@@ -155,3 +155,10 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+# Aggregate + rebuild hourly instead of daily. Probing is already every 5 min
+# (uptime), this only controls how fresh the numbers on the site are.
+workflowSchedule:
+  responseTime: "0 * * * *"
+  graphs: "20 * * * *"
+  staticSite: "40 * * * *"
