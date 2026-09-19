@@ -35,7 +35,7 @@
     "time": 892,
     "timeDay": 1101,
     "timeWeek": 1080,
-    "timeMonth": 1090,
+    "timeMonth": 1086,
     "timeYear": 892,
     "dailyMinutesDown": {
       "2026-08-17": 101,
@@ -253,21 +253,21 @@
     "url": "https://api.coingecko.com/api/v3/ping",
     "icon": "https://icons.duckduckgo.com/ip3/api.coingecko.com.ico",
     "slug": "coingecko-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 135,
-    "timeDay": 135,
-    "timeWeek": 137,
-    "timeMonth": 137,
+    "timeDay": 133,
+    "timeWeek": 136,
+    "timeMonth": 136,
     "timeYear": 135,
     "dailyMinutesDown": {
       "2026-02-20": 22,
       "2026-04-15": 27,
-      "2026-09-19": 0
+      "2026-09-19": 10
     }
   },
   {
