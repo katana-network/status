@@ -374,16 +374,16 @@
     "url": "https://katanascan-liveness-probe.polygon-technology.workers.dev",
     "icon": "https://icons.duckduckgo.com/ip3/katanascan-liveness-probe.polygon-technology.workers.dev.ico",
     "slug": "katanascan-explorer",
-    "status": "down",
+    "status": "up",
     "uptime": "72.49%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "72.49%",
     "time": 378,
-    "timeDay": 1393,
-    "timeWeek": 544,
-    "timeMonth": 365,
+    "timeDay": 1354,
+    "timeWeek": 542,
+    "timeMonth": 364,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2026-03-12": 21,
@@ -461,7 +461,7 @@
       "2026-06-05": 1440,
       "2026-06-04": 1397,
       "2026-10-19": 30,
-      "2026-10-24": 1
+      "2026-10-24": 11
     }
   }
 ]
