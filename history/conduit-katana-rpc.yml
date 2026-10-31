@@ -1,7 +1,7 @@
 url: $CONDUIT_KATANA_ENDPOINT
 status: up
 code: 200
-responseTime: 91
-lastUpdated: 2026-10-31T20:10:09.080Z
+responseTime: 80
+lastUpdated: 2026-10-31T21:09:21.260Z
 startTime: 2026-02-20T12:15:34.207Z
 generator: Upptime <https://github.com/upptime/upptime>
