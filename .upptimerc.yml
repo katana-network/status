@@ -18,6 +18,12 @@ sites:
     url: https://questing-api.katana.network/health
     __dangerous__body_down_if_text_missing: '"status":"OK"'
     maxResponseTime: 5000
+  # Same endpoint, scoped to the homecoming rewards job only.
+  # Down if the job reports NOK, whatever the other fields say.
+  - name: questing homecoming rewards job
+    url: https://questing-api.katana.network/health
+    __dangerous__body_down: '"homecomingRewardsJob":"NOK"'
+    maxResponseTime: 5000
   - name: public rpc
     url: https://rpc.katana.network
     method: POST
