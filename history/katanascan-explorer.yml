@@ -1,7 +1,7 @@
 url: https://katanascan-liveness-probe.polygon-technology.workers.dev
-status: up
-code: 200
-responseTime: 153
-lastUpdated: 2026-11-21T12:14:29.693Z
+status: down
+code: 503
+responseTime: 8075
+lastUpdated: 2026-11-21T12:19:57.640Z
 startTime: 2026-02-20T12:15:36.982Z
 generator: Upptime <https://github.com/upptime/upptime>
